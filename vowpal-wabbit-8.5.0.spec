@@ -129,6 +129,6 @@ find %{buildroot} -name '*.la' -delete
 
 
 %changelog
-* Thu Mar 29 2018 Don Jackson <github:realdonjackson> 8.5.0
+* Thu Mar 29 2018 Don Jackson <github:donjackson> 8.5.0
 - vowpal-wabbit version 8.5.0.
 - build against libboost-1.59.0.
