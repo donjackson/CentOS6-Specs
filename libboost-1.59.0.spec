@@ -811,5 +811,5 @@ find %{buildroot}%{_docdir} -name \*.py -exec chmod -x {} +
 %endif
 
 %changelog
-* Thu Mar 29 2018 Don Jackson <github:realdonjackson> 1.59.0
+* Thu Mar 29 2018 Don Jackson <github:donjackson> 1.59.0
 - libboost version 1.59.0.
